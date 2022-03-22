@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_rev - print string
- * @s: input string
- * Return: no return
+  * print_rev - prints string
+  * @s: input string
+  * Return: no return
  */
 
 void print_rev(char *s)
@@ -12,16 +12,15 @@ void print_rev(char *s)
 
 	while (*s != '\0')
 	{
-		    s++;
-			count++;
+		s++;
+		count++;
 	}
 
 	while (count > 0)
-    {
-		    s--;
-			_putchar(*s);
-			count--;
+	{
+		s--;
+		_putchar(*s);
+		count--;
 	}
 	_putchar('\n');
 }
-	
