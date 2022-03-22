@@ -1,9 +1,8 @@
 #include "main.h"
-
-[A#include <string.h>
+#include <string.h>
 
 /**
- * strlen - function that returns the length of a string.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D_strlen
+ * strlen - function that returns the length of a string
  *
  * @s; length of a string.
  *
