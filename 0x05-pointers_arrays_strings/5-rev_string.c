@@ -2,6 +2,7 @@
 
 /**
  * rev_string - rev string
+ *
  * @s: string
  */
 
