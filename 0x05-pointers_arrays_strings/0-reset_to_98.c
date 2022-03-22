@@ -9,4 +9,3 @@ void reset_to_98(int *n)
 {
 *n = 98;
 }
-}[A[A[A[A[A[A[A[A[A[C[C *[C[[B[B[B[B[B[B[B[B[B[D[D
