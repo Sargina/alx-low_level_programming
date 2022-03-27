@@ -7,7 +7,7 @@
  * main - Prints _putchar
  *
  * Return: Always 0 (Success)
- */
+ 
 int main(void)
 {
 char c[8] = "_putchar";
